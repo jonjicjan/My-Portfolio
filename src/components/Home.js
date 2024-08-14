@@ -27,8 +27,7 @@ const Home = () => {
                   </span>
                 </h1>
                 <p>
-                  I'm a Software Developer with extensive experience for over 2 years. My expertise is to create and Websites design, Manage backend, and many more...
-                </p>
+                I am a Software Developer with over two years of extensive experience in designing and developing websites, managing databases, and possessing a solid understanding of cybersecurity. My expertise lies in crafting efficient, secure, and user-friendly solutions that meet the needs of modern businesses.                </p>
                 <button onClick={handleContactClick} className="btn btn-secondary banner_btn">
                   Contact me
                 </button>

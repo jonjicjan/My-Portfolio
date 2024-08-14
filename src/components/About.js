@@ -5,14 +5,14 @@ const socialLinks = [
   { name: 'LinkedIn', url: 'http://www.linkedin.com/in/mohammad-umar-khan-softwaredeveloper', iconClass: 'fa-brands fa-linkedin' },
   { name: 'GitHub', url: 'https://github.com/jonjicjan', iconClass: 'fa-brands fa-github' },
   { name: 'Twitter', url: 'https://x.com/PATHAN10662951', iconClass: 'fa-brands fa-twitter' },
-  { name: 'Instagram', url: 'https://www.instagram.com/_pathan.official_?igsh=MW85bW0zdzNpa283cQ%3D%3D&utm_source=qr', iconClass: 'fa-brands fa-instagram' },
+  { name: 'Instagram', url: 'https://www.instagram.com/__justz_pathan__?igsh=MW85bW0zdzNpa283cQ%3D%3D&utm_source=qr', iconClass: 'fa-brands fa-instagram' },
   // Add more social links as needed
 ];
 
 const certifications = [
   { name: 'Certified Web Developer', issuer: 'Infosys Springboard', year: 2023 },
-  { name: 'Junior Software Developer', issuer: 'NSDC by goverment', year: 2024 },
-  { name: 'Introduction of Cybersecurity', issuer: 'Cisco Networking Academy', year: 2024 },
+  { name: 'Junior Software Developer', issuer: 'NSDC by government', year: 2024 },
+  { name: 'Introduction of Cybersecurity', issuer: 'Cisco Networking Academy / Infosys Springboard', year: 2024 },
 
   // Add more certifications as needed
 ];
@@ -21,7 +21,7 @@ const collegeDetails = {
   name: 'The Oxford Polytechnic',
   degree: 'Diploma in Computer Science',
   graduationYear: 2025,
-  location: 'Banglore, India'
+  location: 'Bengaluru, India'
 };
 
 const About = () => {
@@ -34,8 +34,8 @@ const About = () => {
         <div className="row">
           <div className="col-md-12">
             <div className="about-content text-center">
-              <p>
-                Hello! I'm Mohammad, a passionate developer with expertise in web development, database management, DevOps, data analytics, and AI development. I love creating solutions that make a difference.
+              <p> 
+                <h2>Overview of Resume</h2>
               </p>
               <div className="resume-link">
                 <a href="http://www.linkedin.com/in/mohammad-umar-khan-softwaredeveloper" target="_blank" rel="noopener noreferrer" className="btn btn-common">

@@ -15,6 +15,12 @@ const services = [
     delay: "0.9s"
   },
   {
+    title: "Git & Github (Version Control Tool)",
+    imgSrc: "https://github.blog/wp-content/uploads/2023/10/Security-DarkMode-4.png?fit=1200%2C630",
+    alt: "https://www.w3schools.com/git/default.asp?remote=github",
+    delay: "0.9s"
+  },
+  {
     title: "DevOps",
     imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMc-v6cOZPw0dktIr881fiSQvACBzd7pjDuw&s",
     alt: "https://www.w3schools.com/aws/aws_devops.php",
