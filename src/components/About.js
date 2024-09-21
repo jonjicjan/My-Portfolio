@@ -5,7 +5,7 @@ const socialLinks = [
   { name: 'LinkedIn', url: 'http://www.linkedin.com/in/mohammad-umar-khan-softwaredeveloper', iconClass: 'fa-brands fa-linkedin' },
   { name: 'GitHub', url: 'https://github.com/jonjicjan', iconClass: 'fa-brands fa-github' },
   { name: 'Twitter', url: 'https://x.com/PATHAN10662951', iconClass: 'fa-brands fa-twitter' },
-  { name: 'Instagram', url: 'https://www.instagram.com/__justz_pathan__?igsh=MW85bW0zdzNpa283cQ%3D%3D&utm_source=qr', iconClass: 'fa-brands fa-instagram' },
+  { name: 'Instagram', url: 'https://www.instagram.com/pathan___zx?igsh=MW85bW0zdzNpa283cQ%3D%3D&utm_source=qr', iconClass: 'fa-brands fa-instagram' },
   // Add more social links as needed
 ];
 
