@@ -27,7 +27,10 @@ const Home = () => {
                   </span>
                 </h1>
                 <p>
-                I am a Software Developer with over two years of extensive experience in designing and developing websites, managing databases, and possessing a solid understanding of cybersecurity. My expertise lies in crafting efficient, secure, and user-friendly solutions that meet the needs of modern businesses.                </p>
+                🚀 With over 3 years of experience in software development, I specialize in designing and developing websites, managing databases, and ensuring robust cybersecurity. My passion lies in building secure, efficient, and user-friendly solutions that drive innovation.
+
+🔍 Currently, I am expanding my expertise into Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, and Generative AI to solve complex real-world problems through data-driven insights.
+                          </p>
                 <button onClick={handleContactClick} className="btn btn-secondary banner_btn">
                   Contact me
                 </button>
