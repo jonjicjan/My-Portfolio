@@ -38,15 +38,15 @@ const Blog = () => {
                     <a href="#">
                       <h4>"Project Second"</h4>
                     </a>
-                    <span>  <i className="fa fa-clock-o"></i> May 15, 2023| Texteditor</span>
+                    <span>  <i className="fa fa-clock-o"></i> Jan 09, 2025| Learning Hub </span>
                     <div className="icon">
                       <img
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrw8udcx1gMg-6BzVStQqep5lbBs_RVdabZw&s"
+                        src="https://pbs.twimg.com/media/Gd0MWWUWMAAzhc-?format=jpg&name=large"
                         alt=" "
                       />
                     </div>
-                    <a href="#" className="btn blog_btn btn-secondary">
-                     <del>Currently Unavailable</del>
+                    <a href="https://jonjicjan.github.io/LearnHub/" className="btn blog_btn btn-secondary">
+                    View now
                     </a>
                   </div>
                 </div>
@@ -59,15 +59,15 @@ const Blog = () => {
                     <a href="#">
                       <h4>"Project Third"</h4>
                     </a>
-                    <span>  <i className="fa fa-clock-o"></i> Dec 25, 2023| News App</span>
+                    <span>  <i className="fa fa-clock-o"></i> Feb 05, 2025| E-Commerce</span>
                     <div className="icon">
                       <img
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrw8udcx1gMg-6BzVStQqep5lbBs_RVdabZw&s"
+                        src="https://magesolution.com/wp-content/uploads/2022/07/Effective-Ecommerce-Website-Design.jpg"
                         alt=" "
                       />
                     </div>
-                    <a href="#" className="btn blog_btn btn-secondary">
-                    <del>Currently Unavailable</del>
+                    <a href="https://trendfashionstore.netlify.app/" className="btn blog_btn btn-secondary">
+                    View now
                     </a>
                   </div>
                 </div>
