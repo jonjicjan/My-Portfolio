@@ -3,7 +3,7 @@ import '../App.css'; // Ensure this path is correct
 
 const services = [
   {
-    title: "Web Development",
+    title: "Fullstack Web Development",
     imgSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8j774O0ujbTqYX2-A-UICjiYP7rcsQ8lAg&s",
     alt: "https://www.w3schools.com/whatis/",
     delay: "0.6s"

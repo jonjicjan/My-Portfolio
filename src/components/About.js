@@ -10,9 +10,11 @@ const socialLinks = [
 ];
 
 const certifications = [
-  { name: 'Certified Web Developer', issuer: 'Infosys Springboard', year: 2023 },
+  { name: 'Data Analytics Job Simulation', issuer: 'Deloitte', year: 2025 },
+  { name: 'Advanced Golang', issuer: 'KodeKloud', year: 2025 },
   { name: 'Junior Software Developer', issuer: 'NSDC by government', year: 2024 },
   { name: 'Introduction of Cybersecurity', issuer: 'Cisco Networking Academy / Infosys Springboard', year: 2024 },
+  { name: 'Certified Web Developer', issuer: 'Infosys Springboard', year: 2023 },
 
   // Add more certifications as needed
 ];
