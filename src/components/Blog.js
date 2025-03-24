@@ -15,7 +15,7 @@ const Blog = () => {
                 <div className="blog-thumb">
                   <div className="blog-info">
                     <a href="#">
-                      <h4>"Project First"</h4>
+                      <h4>" First Project"</h4>
                     </a>
                     <span>  <i className="fa fa-clock-o"></i> Dec 10, 2022| Amine World</span>
                     <div className="icon">
@@ -36,7 +36,7 @@ const Blog = () => {
                 <div className="blog-thumb">
                   <div className="blog-info">
                     <a href="#">
-                      <h4>"Project Second"</h4>
+                      <h4>" Second Project"</h4>
                     </a>
                     <span>  <i className="fa fa-clock-o"></i> Jan 09, 2025| Learning Hub </span>
                     <div className="icon">
@@ -57,9 +57,9 @@ const Blog = () => {
                 <div className="blog-thumb">
                   <div className="blog-info">
                     <a href="#">
-                      <h4>"Project Third"</h4>
+                      <h4>" Third Project"</h4>
                     </a>
-                    <span>  <i className="fa fa-clock-o"></i> Feb 05, 2025| E-Commerce</span>
+                    <span>  <i className="fa fa-clock-o"></i> Jan 15, 2025| E-Commerce</span>
                     <div className="icon">
                       <img
                         src="https://magesolution.com/wp-content/uploads/2022/07/Effective-Ecommerce-Website-Design.jpg"
@@ -82,17 +82,17 @@ const Blog = () => {
                 <div className="blog-thumb">
                   <div className="blog-info">
                     <a href="#">
-                      <h4>"Project Fourth"</h4>
+                      <h4>"Fourth Project"</h4>
                     </a>
-                    <span><i className="fa fa-clock-o"></i> Jan 10, 2024| My Notes</span>
+                    <span><i className="fa fa-clock-o"></i> Jan 30, 2025| Weather APP</span>
                     <div className="icon">
                       <img
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrw8udcx1gMg-6BzVStQqep5lbBs_RVdabZw&s"
+                        src="https://dashboard.openweather.co.uk/_next/image?url=%2Fimages%2Fnew_landing1.png&w=1920&q=75"
                         alt=" "
                       />
                     </div>
-                    <a href="#" className="btn blog_btn btn-secondary">
-                    <del> Currently Unavailable</del>
+                    <a href="https://freeweathercheckingapp.netlify.app/" className="btn blog_btn btn-secondary">
+                    View now
                     </a>
                   </div>
                 </div>
@@ -103,17 +103,17 @@ const Blog = () => {
                 <div className="blog-thumb">
                   <div className="blog-info">
                     <a href="#">
-                      <h4>"Project Fifth"</h4>
+                      <h4>"Fifth Project"</h4>
                     </a>
-                    <span><i className="fa fa-clock-o"></i> Mar 30, 2024| A.I Assistant </span>
+                    <span><i className="fa fa-clock-o"></i> Mar 10, 2025| A.I Chatbot & Workspace </span>
                     <div className="icon">
                       <img
-                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrw8udcx1gMg-6BzVStQqep5lbBs_RVdabZw&s"
+                        src="https://img.freepik.com/premium-photo/cute-robot-smartphone-screen-ai-futuristic-technology-concept_204719-128305.jpg?w=1380"
                         alt=" "
                       />
                     </div>
-                    <a href="#" className="btn blog_btn btn-secondary">
-                    <del>Currently Unavailable</del>
+                    <a href="https://intellexa.netlify.app/" className="btn blog_btn btn-secondary">
+                    View now
                     </a>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ const Blog = () => {
                 <div className="blog-thumb">
                   <div className="blog-info">
                     <a href="#">
-                      <h4>"Project Sixth"</h4>
+                      <h4>"Sixth Project"</h4>
                     </a>
                     <span> <i className="fa fa-clock-o"></i> July 20, 2024| My Portfolio</span>
                     <div className="icon">
@@ -140,6 +140,7 @@ const Blog = () => {
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>
