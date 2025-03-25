@@ -62,7 +62,7 @@ const Blog = () => {
                     <span>  <i className="fa fa-clock-o"></i> Jan 15, 2025| E-Commerce</span>
                     <div className="icon">
                       <img
-                        src="https://magesolution.com/wp-content/uploads/2022/07/Effective-Ecommerce-Website-Design.jpg"
+                        src="https://www.google.com/imgres?q=e%20commerce&imgurl=https%3A%2F%2Fkatharostechie.in%2Fwp-content%2Fuploads%2F2024%2F02%2FE-commerce1.png&imgrefurl=https%3A%2F%2Fkatharostechie.in%2Fe-commerce-evolution-navigating-the-digital-marketing-challenges-and-opportunities%2F&docid=FmOBwHkXZG6L2M&tbnid=q2ba7FnnEYk45M&vet=12ahUKEwjw7N2K5qSMAxWIiq8BHVd1Bj8QM3oECGUQAA..i&w=1200&h=630&hcb=2&ved=2ahUKEwjw7N2K5qSMAxWIiq8BHVd1Bj8QM3oECGUQAA"
                         alt=" "
                       />
                     </div>
