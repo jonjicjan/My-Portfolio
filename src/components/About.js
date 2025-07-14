@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css'; // Ensure the path is correct
 
 const socialLinks = [
-  { name: 'LinkedIn', url: 'http://www.linkedin.com/in/mohammad-umar-khan-softwaredeveloper', iconClass: 'fa-brands fa-linkedin' },
+  { name: 'LinkedIn', url: 'www.linkedin.com/in/mohammad-data-science-developer-028aiml', iconClass: 'fa-brands fa-linkedin' },
   { name: 'GitHub', url: 'https://github.com/jonjicjan', iconClass: 'fa-brands fa-github' },
   { name: 'Twitter', url: 'https://x.com/PATHAN10662951', iconClass: 'fa-brands fa-twitter' },
   { name: 'Instagram', url: 'https://www.instagram.com/pathan___zx?igsh=MW85bW0zdzNpa283cQ%3D%3D&utm_source=qr', iconClass: 'fa-brands fa-instagram' },
